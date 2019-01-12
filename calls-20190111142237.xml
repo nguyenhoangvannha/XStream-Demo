@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.05.301 on 11/01/2019 14:22:38-->
+<calls count="4" backup_set="54ba9a05-2385-4e03-917e-4f482ad1678a" backup_date="1547191357761">
+  <call number="01695461285" duration="22" date="1461450551405" type="3" presentation="1" readable_date="Apr 24, 2016 5:29:11 AM" contact_name="(Unknown)" />
+  <call number="0944760934" duration="0" date="1461494174243" type="2" presentation="1" readable_date="Apr 24, 2016 5:36:14 PM" contact_name="(Unknown)" />
+  <call number="0916429914" duration="23" date="1461584126675" type="1" presentation="1" readable_date="Apr 25, 2016 6:35:26 PM" contact_name="(Unknown)" />
+  <call number="900" duration="11" date="1546836211468" type="2" presentation="1" readable_date="Jan 7, 2019 11:43:31 AM" contact_name="(Unknown)" />
+</calls>
